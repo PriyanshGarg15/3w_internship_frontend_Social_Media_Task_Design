@@ -11,7 +11,7 @@ import {
   FaEllipsisH,
 } from 'react-icons/fa';
 
-import code from './images/code4.jpg';
+import code from './images/code.png';
 
 const Dashboard = () => {
   return (

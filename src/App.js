@@ -4,6 +4,7 @@ import Leaderboard from "./components/leader.js";
 import SocialMediaTask from "./components/socialmedia.js";
 import Footer from "./components/footer.js";
 import Dashboard from "./components/dashboard.js";
+import Taskboard from "./components/dashboard.js"
 // build fro mobile view
 function App() {
   return (
