@@ -1,4 +1,4 @@
-import { FaHome, FaPlus, FaCog, FaGift, FaUserAlt } from "react-icons/fa";
+import { FaHome, FaGift, FaUserAlt } from "react-icons/fa";
 import { MdNotifications } from "react-icons/md";
 import { GiMoneyStack } from "react-icons/gi";
 import { useState } from "react";
